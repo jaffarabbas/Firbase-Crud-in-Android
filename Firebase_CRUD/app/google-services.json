@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561134512927",
+    "firebase_url": "https://jaffarcrud.firebaseio.com",
+    "project_id": "jaffarcrud",
+    "storage_bucket": "jaffarcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561134512927:android:084d1022a2a92a4af01e2a",
+        "android_client_info": {
+          "package_name": "com.firebace_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561134512927-jqn74qqkr1ae2o06mnt55t178no442lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5EpAG3wpwvE0XYvXGPzTlpnQXPkBA0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561134512927-jqn74qqkr1ae2o06mnt55t178no442lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
